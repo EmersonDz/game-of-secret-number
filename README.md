@@ -19,6 +19,11 @@ O "Game of Secret Number" foi criado durante meus estudos na plataforma [Alura](
 - CSS3
 - JavaScript (puro)
 
+## 🔗 Acesse o projeto online
+
+👉 [Clique aqui para acessar o jogo](https://game-of-secret-number-two.vercel.app/)
+
+
 ## 📦 Como executar
 
 1. Clone este repositório:
